@@ -23,6 +23,9 @@ https://codeofmatt.com/on-the-timing-of-time-zone-changes
 I post on LinkedIn regularly about new Front End features.
 
 LinkedIn: https://www.linkedin.com/in/stevenanthonyharrison
+
 Twitter: https://twitter.com/stevenaharrison
+
 StackOverflow: https://stackoverflow.com/users/48492/steve-harrison
+
 GitHub: https://github.com/steveharrison
