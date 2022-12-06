@@ -1,5 +1,8 @@
 # Exploring Temporal Resources
 
+## Slides
+https://github.com/steveharrison/steveharrison.github.io/blob/master/temporal/exploring-temporal-slides.pdf
+
 ## Temporal Docs
 https://tc39.es/proposal-temporal/docs/
 https://tc39.es/proposal-temporal/docs/cookbook.html
